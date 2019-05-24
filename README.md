@@ -2,9 +2,7 @@
 Commit
 Commit 2
 Commit 3
-<<<<<<< HEAD
 Commit 4
-=======
 HEAD
 Commit 4
 Commit dev 
@@ -14,4 +12,3 @@ testRebase
 Commit rebase
 Commit rebase 2
 Commit rebase 3
->>>>>>> testRebase
