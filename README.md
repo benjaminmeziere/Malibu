@@ -10,3 +10,4 @@ Commit dev 3
 testRebase
 Commit rebase
 Commit rebase 2
+Commit rebase 3
