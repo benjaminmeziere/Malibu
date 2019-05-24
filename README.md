@@ -7,4 +7,5 @@ Commit 4
 Commit dev 
 Commit dev 2 
 Commit dev 3
-dev
+testRebase
+Commit rebase
